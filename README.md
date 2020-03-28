@@ -4,4 +4,4 @@ Dialogue Designer online! Made with Vue JS, helping you to make your dialogue st
 
 ## (Open Contribute)
 
-![Preview](./.preview/display.jpg "Preview")
+![Preview](./.preview/display.JPG "Preview")
